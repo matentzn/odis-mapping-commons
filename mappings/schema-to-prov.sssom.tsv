@@ -12,7 +12,6 @@
 #  - Pier Luigi Buttigieg
 #curie_map:
 #  rdfs: "http://www.w3.org/2000/01/rdf-schema#"
-#  schema: "https://schema.org/"
 #  prov: "http://www.w3.org/ns/prov#"
 #  orcid: "https://orcid.org/"
 #  skos: "http://www.w3.org/2004/02/skos/core#"
