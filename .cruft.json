@@ -1,0 +1,21 @@
+{
+  "template": "https://github.com/mapping-commons/mapping-commons-cookiecutter",
+  "commit": "992496f2e6b59f98d73734a75016b8f6dd9b2eff",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "odis-mapping-commons",
+      "__project_slug": "odis_mapping_commons",
+      "project_description": "The collected entity mappings needed by the ODIS project.",
+      "github_or_gitlab": "github",
+      "git_org": "iodepo",
+      "full_name": "Pier Luigi Buttigieg",
+      "email": "pbuttigi@mpi-bremen.de",
+      "__author": "Pier Luigi Buttigieg <pbuttigi@mpi-bremen.de>",
+      "license": "Yes",
+      "inverse_mappings": "No",
+      "_template": "https://github.com/mapping-commons/mapping-commons-cookiecutter"
+    }
+  },
+  "directory": null
+}

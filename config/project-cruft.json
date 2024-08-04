@@ -1,0 +1,14 @@
+{
+  "context": {
+    "cookiecutter": {
+      "project_name": "odis-mapping-commons",
+      "project_description": "The collected entity mappings needed by the ODIS project.",
+      "github_or_gitlab": "github",
+      "git_org": "iodepo",
+      "full_name": "Pier Luigi Buttigieg",
+      "email": "pbuttigi@mpi-bremen.de",
+      "license": "Yes",
+      "inverse_mappings": "No"
+    }
+  }
+}
